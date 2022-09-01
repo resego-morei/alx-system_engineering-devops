@@ -1,1 +1,1 @@
-abs path name of cd
+Display current directory contents in a long format
